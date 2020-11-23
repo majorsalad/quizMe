@@ -11,3 +11,5 @@ I learned about Structs in Swift and how they're basically the equivalent to Cla
 
 # How to use
 Provided above is the directory of the application. Simply clone the repository into your Xcode and you should be able to run it.
+
+# Snapshots
