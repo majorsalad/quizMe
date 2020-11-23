@@ -13,3 +13,6 @@ I learned about Structs in Swift and how they're basically the equivalent to Cla
 Provided above is the directory of the application. Simply clone the repository into your Xcode and you should be able to run it.
 
 # Snapshots
+<img width="383" alt="Snapshot1" src="https://user-images.githubusercontent.com/57197937/99989761-000fd200-2d81-11eb-9c8c-fa68f458b25d.png">
+
+<img width="388" alt="Snapshot2" src="https://user-images.githubusercontent.com/57197937/99989765-0140ff00-2d81-11eb-9117-d9c36515775c.png">
